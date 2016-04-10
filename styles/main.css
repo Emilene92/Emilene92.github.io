@@ -1,6 +1,6 @@
 
 body {
-  background: #ffccff;
+  background: #ffe6ff;
   font-family: arial;
   
 }
@@ -8,6 +8,7 @@ h1 {
     text-shadow: 2px 2px #cc99ff;
     text-align: center;
     position: 20px;
+    background-color: white;
 }
 
 a {
