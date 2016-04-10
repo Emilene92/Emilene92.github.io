@@ -8,10 +8,11 @@ h1 {
     text-shadow: 2px 2px #cc99ff;
     text-align: centre;
     position: 20px;
-    border-style: groove;
+    border: 5px groove;
 }
  li {
     float: left;
+    border:5px groove;
 }
 
 a {
