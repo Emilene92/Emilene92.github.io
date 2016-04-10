@@ -2,13 +2,16 @@
 body {
   background: #ffccff;
   font-family: arial;
-  text-align: centre;
+  
 }
 h1 {
     text-shadow: 2px 2px #cc99ff;
+    text-align: centre;
     position: 20px;
     border-style: groove;
 }
-a {
-  padding: 10px;
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
