@@ -8,17 +8,24 @@ h1 {
     text-shadow: 2px 2px #cc99ff;
     text-align: center;
     position: 20px;
-    border: 5px groove #6f2a6f;
-}
- li {
-    float: left;
-    border:5px groove #6f2a6f;
+    border: 5px groove;
 }
 
 a {
     display: block;
     padding: 8px;
     background-color: #dddddd;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    width: 60px;
 }
 
 h2 {
