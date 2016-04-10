@@ -1,6 +1,7 @@
 body {
-  background: white;
-  h2 font-family: arial;
-  p font-family: arial;
-
+  background: #999;
+  font-family: arial;
+}
+h2 {
+  color: pink;
 }
