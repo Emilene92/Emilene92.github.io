@@ -1,9 +1,10 @@
 body {
-  background: #999;
+  background: 9966FF;
   font-family: arial;
 }
 h1 {
-  padding: 20px;
+    text-shadow: 2px 2px #ff0000;
+    position: 20px;
 }
 a {
   padding: 10px;
