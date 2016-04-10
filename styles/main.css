@@ -8,7 +8,6 @@ h1 {
     text-shadow: 2px 2px #cc99ff;
     text-align: center;
     position: 20px;
-    border: 5px groove;
 }
 
 a {
@@ -21,11 +20,21 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
 }
 
 li a {
     display: block;
-    width: 60px;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
 }
 
 h2 {
