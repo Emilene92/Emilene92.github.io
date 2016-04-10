@@ -6,17 +6,22 @@ body {
 }
 h1 {
     text-shadow: 2px 2px #cc99ff;
-    text-align: centre;
+    text-align: center;
     position: 20px;
-    border: 5px groove;
+    border: 5px groove #6f2a6f;
 }
  li {
     float: left;
-    border:5px groove;
+    border:5px groove #6f2a6f;
 }
 
 a {
     display: block;
     padding: 8px;
     background-color: #dddddd;
+}
+
+h2 {
+  text-indent: 50px;
+  font-family: Courier;
 }
