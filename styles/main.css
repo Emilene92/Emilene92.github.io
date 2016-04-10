@@ -37,6 +37,10 @@ li a:hover {
     color: white;
 }
 
+p {
+  margin: 50px;
+}
+
 h2 {
   text-indent: 50px;
   font-family: Courier;
