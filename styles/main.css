@@ -4,9 +4,10 @@ body {
   font-family: arial;
 }
 h1 {
-    text-shadow: 2px 2px #ff0000;
+    text-shadow: 2px 2px #cc99ff;
     position: 20px;
 }
 a {
   padding: 10px;
 }
+h1.groove {border-style: groove;}
