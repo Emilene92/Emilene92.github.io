@@ -40,6 +40,7 @@ li a:hover {
 
 p {
   text-align: center;
+  padding: 10px;
 }
 
 h2 {
@@ -47,4 +48,5 @@ h2 {
   text-align: center;
   color: #9900cc
   text-shadow: 1px 1px #f9e6ff;
+  padding: 10px;
 }
