@@ -21,8 +21,11 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
-    background-color: #f1f1f1;
+    width: 25%;
+    background-color: #8000ff;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
 
 li a {
@@ -49,4 +52,14 @@ h2 {
   color: #9900cc
   text-shadow: 1px 1px #f9e6ff;
   padding: 30px;
+}
+
+footer {
+  display: block;
+  background-color: #8000ff;
+}
+
+.footer {
+color: white;
+text-transform: capitalize;
 }
