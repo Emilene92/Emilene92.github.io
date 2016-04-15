@@ -9,6 +9,7 @@ h1 {
     text-align: center;
     position: 20px;
     background-color: white;
+    margin-left: 25%
 }
 
 a {
@@ -22,7 +23,6 @@ ul {
     margin: 0;
     padding: 0;
     width: 25%;
-    background-color: #8000ff;
     height: 100%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
@@ -44,6 +44,7 @@ li a:hover {
 p {
   text-align: center;
   padding: 30px;
+  margin-left: 25%
 }
 
 h2 {
