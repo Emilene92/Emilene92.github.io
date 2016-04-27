@@ -5,9 +5,8 @@ h1{
 }
 
 .button {
-  margin: 50px;
+  margin: 100px;
   background color: #bfbfbf;
-  padding: 30px;
 }
 
 .button:hover {
