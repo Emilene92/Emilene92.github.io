@@ -5,8 +5,8 @@ h1{
 }
 
 .button {
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
   background color: #bfbfbf;
 }
 
@@ -25,7 +25,3 @@ h2 {
   padding: 30px;
 }
 
-footer {
-  display: block;
-  background-color: #8000ff
-}
