@@ -4,10 +4,36 @@ h1{
   font-family: arial;
 }
 
-.button {
-  margin-left: 200px;
-  margin-right: 200px;
-  background color: #bfbfbf;
+.button1 {
+  margin: 20px;
+}
+
+.button2 {
+  margin: 20px;
+}
+
+.button3 {
+  margin: 20px;
+}
+
+.button4 {
+  margin: 20px;
+}
+
+.button5 {
+  margin: 20px;
+}
+
+.button6 {
+  margin: 20px;
+}
+
+.button7 {
+  margin: 20px;
+}
+
+.button8 {
+  margin: 20px;
 }
 
 .button:hover {
