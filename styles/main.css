@@ -5,6 +5,15 @@ h1{
 }
 
 .button {
-  margin: 20px;
+  margin: 30px;
   background color: #bfbfbf;
+}
+
+.button:hover {
+  background-color: #555;
+  color:white;
+}
+
+.main {
+  text-align: center;
 }
