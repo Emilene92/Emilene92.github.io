@@ -7,6 +7,7 @@ h1{
 .button {
   margin: 50px;
   background color: #bfbfbf;
+  padding: 30px;
 }
 
 .button:hover {
@@ -14,6 +15,17 @@ h1{
   color:white;
 }
 
-.main {
+p {
   text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: #9900cc
+  padding: 30px;
+}
+
+footer {
+  display: block;
+  background-color: #8000ff
 }
